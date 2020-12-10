@@ -6,6 +6,7 @@
 - Modified the motion of the ball by adding a horizontal motion
 
 ## Final Project: Brick Breaker 
+- Essentially Lab 3, but changes to bat_n_ball.vhd (no other files were changed)
 - Brick size and position definitions are found in lines 23-24, 29-52, and 59-89.
 - Brick color definitions are found in lines 93-97.
 - Drawing the bricks on the VGA display is found on lines 133-442.
